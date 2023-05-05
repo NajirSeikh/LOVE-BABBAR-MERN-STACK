@@ -1,0 +1,12 @@
+﻿Let's learn Full Stack Web Development using MERN Stack
+May 5, 2023
+Episode-1:
+What is the Web?
+The Web is an information system which enables collection and interconnected resources and documents to be accessed over the internet.
+What is Web Development?
+Web development is a process of creating websites(static-readonly) and webapps(dynamic).
+Web Application - 
+1. Front End / UI - HTML/CSS/JS - Front End Engineer
+2. Back End - Brain of Web App(Logic building section) - Back End Engineer
+3. DB Layer - No SQL / SQL - MongDB / MySQL 
+M        E        R        N        :        MongDB        ExpressJs        ReactJs        NodeJs
