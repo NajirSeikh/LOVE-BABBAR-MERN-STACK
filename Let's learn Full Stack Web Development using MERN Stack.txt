@@ -1,5 +1,5 @@
 ﻿Let's learn Full Stack Web Development using MERN Stack
-May 5, 2023
+---------------May 5, 2023---------------
 Episode-1:
 What is the Web?
 The Web is an information system which enables collection and interconnected resources and documents to be accessed over the internet.
@@ -10,3 +10,25 @@ Web Application -
 2. Back End - Brain of Web App(Logic building section) - Back End Engineer
 3. DB Layer - No SQL / SQL - MongDB / MySQL 
 M        E        R        N        :        MongDB        ExpressJs        ReactJs        NodeJs
+
+---------------May 6, 2023---------------
+Episode-2 : Understanding Internet, Networks, Web and more
+Network : Collection of interconnected devices such as mobile, computer, router etc capable for communication.
+Network Types : LAN, MAN, WAN
+LAN - Local Area Network (router of my house or building )
+MAN - Metropolitan Area Network ( cities connected or states )
+WAN - Wide Area Network ( countries connected)
+
+Internet : It is a global system which interconnected each other devices or networks i.e. Network of networks.
+
+WWW : WWW is a subset of Internet.Interconnected documents & resources accessed via Internet.
+
+IP Address : Globally unique logical address
+Types of IP add. : IPV4(32 bit address), IPV6(128 bit address)
+DNS : domain name service used to convert domain name into IP address.
+
+Browser : Interface b/w client and server used to explore documents on the web.(Internet Explorer, Firefox, Safari, Opera, Google Chrome)
+Browser Engine : A browser engine is to transform HTML documents and other resources of a web page into an interactive visual representation on a user's device.Ex.Trident (Internet Explorer),Gecko (Firefox),Webkit (Safari),Presto (Opera),Blink (Google Chrome)
+
+Client- Requests for services (eg. Laptop/PC/Browser/CLI/App etc)
+Server - Response to  services (eg. DB server/File server/Mail server etc)
