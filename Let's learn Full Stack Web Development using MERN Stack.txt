@@ -32,3 +32,42 @@ Browser Engine : A browser engine is to transform HTML documents and other resou
 
 Client- Requests for services (eg. Laptop/PC/Browser/CLI/App etc)
 Server - Response to  services (eg. DB server/File server/Mail server etc)
+
+---------------May 8, 2023---------------
+Episode-3 : How the INTERNET Works - A Simple Explanation
+Internet: The Internet is a global network of computers that is accessed by the World wide web. 
+
+History: The Internet came in the year 1960 with the creation of the first working model called ARPANET (Advanced Research Projects Agency).
+
+Client-Server model: 
+Client: Client means to talk of a person or an organization using a particular service. Client is a computer (Host) i.e. capable of receiving information or using a particular service from the service providers (Servers).
+Servers: Servers mean a person or medium that serves something. Server is a remote computer which provides information (data) or access to particular services.
+So, it's basically the Client requesting something and the Server serving it as long as its present in the database.
+
+Internet Service Provider(ISP): An internet service provider (ISP) is a company that provides access to the internet. ISPs can provide this access through multiple means, including dial-up, DSL, cable, wireless and fiber-optic connections.
+
+Protocol: A protocol is a set of rules and guidelines for communicating data. Rules are defined for each step and process during communication between two or more computers. Networks have to follow these rules to successfully transmit data.
+Types of Protocol: Transmission Control Protocol (TCP), Internet Protocol (IP), User Datagram Protocol (UDP), Post office Protocol (POP), Simple mail transport Protocol (SMTP), File Transfer Protocol (FTP),HyperText Transfer Protocol (HTTP),HyperText Transfer Protocol Secure (HTTPS), Telnet, Gopher
+
+Packets: In networking, a packet is a small segment of a larger message. Data sent over computer networks*, such as the Internet, is divided into packets. These packets are then recombined by the computer or device that receives them.
+
+OSI Model: OSI stands for Open System Interconnection is a reference model that describes how information from a software application in one computer moves through a physical medium to the software application in another computer. It consists of seven layers, and each layer performs a particular network function. (Physical Layer, Data-Link Layer, Network Layer, Transport Layer, Session Layer, Presentation Layer, Application Layer)
+
+TCP/IP Model: TCP/IP stands for Transmission Control Protocol/Internet Protocol and is a suite of communication protocols used to interconnect network devices on the internet. TCP/IP specifies how data is exchanged over the internet by providing end-to-end communications that identify how it should be broken into packets, addressed, transmitted, routed and received at the destination.
+
+Switch: A switch is used in a wired network to connect to other devices using Ethernet cables. A network switch forwards data packets between devices. Switches send packets directly to devices, rather than sending them to networks like a router does.
+
+Hub: A network hub is a node that broadcasts data to every computer or Ethernet-based device connected to it. A hub is less sophisticated than a switch, the latter of which can isolate data transmissions to specific devices. Network hubs are best suited for small, simple local area network (LAN) environments.
+
+Modem: Modem stands for Modulation Demodulation. A modem is a box-type device that connects your home/office network directly to the internet. A modem converts the digital data signals into analogue data signals.
+
+Router: A router is a gateway that passes data between one or more local area networks (LANs). Routers use the Internet Protocol (IP) to send IP packets containing data and IP addresses of sending and destination devices located on separate local area networks.
+Routing Table: A routing table is a set of rules, often viewed in table format, that's used to determine where data packets traveling over an Internet Protocol (IP) network will be directed. This table is usually stored inside the Random Access Memory of forwarding devices, such as routers and network switches.
+
+Packet Travel: Packets are transmitted over a network from one computer to another. They are routed through a series of interconnected devices, such as routers and switches, before reaching their final destination. When packets arrive at their destination, they are reassembled into the original data.
+
+IP Address: An Internet Protocol (IP) address is a unique numerical identifier for every device or network that connects to the internet. Typically assigned by an internet service provider (ISP), an IP address is an online device address used for communicating across the internet.
+
+Versions of IP address: 
+IPv4 provides an addressing capability of approximately 4.3 billion addresses. 
+IPv6 is more advanced and has better features compared to IPv4. It has the capability to provide an infinite number of addresses.
