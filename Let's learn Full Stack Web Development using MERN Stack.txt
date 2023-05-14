@@ -1,6 +1,7 @@
 ﻿Let's learn Full Stack Web Development using MERN Stack
 ---------------May 5, 2023---------------
 Episode-1:
+-----------------------------------------
 What is the Web?
 The Web is an information system which enables collection and interconnected resources and documents to be accessed over the internet.
 What is Web Development?
@@ -13,6 +14,7 @@ M        E        R        N        :        MongDB        ExpressJs        Reac
 
 ---------------May 6, 2023---------------
 Episode-2 : Understanding Internet, Networks, Web and more
+-----------------------------------------
 Network : Collection of interconnected devices such as mobile, computer, router etc capable for communication.
 Network Types : LAN, MAN, WAN
 LAN - Local Area Network (router of my house or building )
@@ -35,6 +37,7 @@ Server - Response to  services (eg. DB server/File server/Mail server etc)
 
 ---------------May 8, 2023---------------
 Episode-3 : How the INTERNET Works - A Simple Explanation
+-----------------------------------------
 Internet: The Internet is a global network of computers that is accessed by the World wide web. 
 
 History: The Internet came in the year 1960 with the creation of the first working model called ARPANET (Advanced Research Projects Agency).
@@ -71,3 +74,15 @@ IP Address: An Internet Protocol (IP) address is a unique numerical identifier f
 Versions of IP address: 
 IPv4 provides an addressing capability of approximately 4.3 billion addresses. 
 IPv6 is more advanced and has better features compared to IPv4. It has the capability to provide an infinite number of addresses.
+
+---------------May 8, 2023---------------
+Episode-3 : How the INTERNET Works - A Simple Explanation
+-----------------------------------------
+What is HTML?
+Labeling the Webpage, Define Structure or Skeleton on any Webpage
+
+Environment Setup
+VS Code	->	Download / Install
+Extensions	->	prettier, Live server
+
+*** code my first HTML program - Hello Dunia (HTML/PROJECTONE/index.html)
