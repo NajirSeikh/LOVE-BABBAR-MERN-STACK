@@ -1,0 +1,144 @@
+/* **************Code by Najir Seikh - 19/05/2023************** */
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MERN - Lec 8 - Forms</title>
+  </head>
+  <body>
+    <h2>Form 1</h2>
+    <form>
+      <label for="email">Enter Email ID:</label>
+      <input type="email" id="email" placeholder="enter your email here" />
+
+      <br />
+      <br />
+
+      <label for="password">Enter Password:</label>
+      <input type="text" id="password" placeholder="enter your password" />
+
+      <br />
+      <br />
+
+      <input type="submit" value="Submit" />
+    </form>
+
+    <h2>Form 2</h2>
+    <form>
+      <fieldset>
+        <legend>HTML Form Dummy</legend>
+        <label for="datepicker">Choose Date:</label>
+        <input type="date" id="datepicker" />
+
+        <br />
+        <br />
+
+        <label for="selector1">Choose your Dish:</label>
+        <select name="dishes" id="selector1">
+          <option value="maggi">Maggi</option>
+          <option value="kurkure">Kurkure</option>
+          <option value="chips">Chips</option>
+        </select>
+
+        <br />
+        <br />
+
+        <button>Main hu Button</button>
+
+        <br />
+        <br />
+
+        <textarea
+          name="textArea1"
+          id="textArea1"
+          cols="30"
+          rows="10"
+          placeholder="enter text here... "
+        ></textarea>
+      </fieldset>
+    </form>
+
+    <h2>Form 3</h2>
+    <form>
+      <label for="text1">TextFeild:</label>
+      <input type="text" name="text" id="text1" />
+
+      <br />
+      <br />
+
+      <label for="btn1">Button:</label>
+      <input type="button" name="btn1" id="btn1" value="Subscribe" />
+
+      <br />
+      <br />
+
+      <label for="male">Male:</label>
+      <input type="radio" name="male" id="male" />
+      <label for="radio1">Female:</label>
+      <input type="radio" name="female" id="female" />
+      <label for="radio1">Prefer not to say:</label>
+      <input type="radio" name="others" id="others" />
+
+      <br />
+      <br />
+
+      <label for="checkbox1">English:</label>
+      <input type="checkbox" name="english" id="checkbox1" />
+      <label for="checkbox1">Hindi:</label>
+      <input type="checkbox" name="hindi" id="checkbox1" />
+
+      <br />
+      <br />
+
+      <label for="file1">Upload:</label>
+      <input type="file" name="file1" id="file1" />
+
+      <br />
+      <br />
+
+      <input
+        type="image"
+        src="https://i.pinimg.com/originals/31/54/59/315459a1702be5166052f3ba17a761f9.png"
+        alt="Down Arrow"
+        height="20px"
+        width="20px"
+      />
+
+      <br />
+      <br />
+
+      <label for="password1">Enter Password:</label>
+      <input type="password" name="password1" id="password1" />
+
+      <br />
+      <br />
+
+      <label for="date1">Enter Date:</label>
+      <input type="date" name="date1" id="date1" />
+    </form>
+
+    <h2>Form 4</h2>
+
+    <form>
+      <h4>HomeWork 1</h4>
+      <label for="selector1">Choose your Dish:</label>
+      <select multiple name="dishes" id="selector1">
+        <option value="maggi">Maggi</option>
+        <option value="kurkure">Kurkure</option>
+        <option value="chips">Chips</option>
+      </select>
+
+      <h4>HomeEork 2</h4>
+
+      <label for="male">Male:</label>
+      <input type="radio" name="gender" id="male" />
+      <label for="radio1">Female:</label>
+      <input type="radio" name="gender" id="female" />
+      <label for="radio1">Prefer not to say:</label>
+      <input type="radio" name="gender" id="others" />
+    </form>
+  </body>
+</html>
