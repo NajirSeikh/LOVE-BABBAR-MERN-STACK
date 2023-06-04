@@ -1,0 +1,27 @@
+/* **************Code by Najir Seikh - 04/06/2023************** */
+
+h1 {
+  font-size: 30px;
+  text-align: center;
+}
+
+p {
+  color: brown;
+}
+
+#article1 {
+  background-color: green;
+}
+
+.paraClass {
+  background-color: yellow;
+}
+
+p,
+article {
+  width: 600px;
+}
+
+p.paraClass {
+  text-align: center;
+}
