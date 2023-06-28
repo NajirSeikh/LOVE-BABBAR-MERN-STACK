@@ -1,0 +1,51 @@
+/* **************Code by Najir Seikh - 28/06/2023************** */
+/* Block Element */
+/* div {
+  border: 1px solid red;
+  width: 300px;
+  height: 300px;
+  margin: 25px;
+  padding: 50px;
+/* convert to inline element */
+/* display: inline;
+} */
+
+/* Box-Sizing: border-box */
+/* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.box {
+  width: 300px;
+  height: 300px;
+  border: 1px solid black;
+  padding: 20px;
+} */
+
+/* Inline Element */
+/* span {
+  border: 2px solid green;
+  width: 800px;
+  height: 400px;
+  margin: 10px;
+  padding: 20px; */
+/* convert to block element */
+/* display: block;
+} */
+
+/* Inline-block Element */
+* {
+  margin: 10px;
+  padding: 0;
+  box-sizing: border-box;
+}
+span {
+  border: 2px solid green;
+  width: 400px;
+  height: 200px;
+  margin: 5px;
+  padding: 5px;
+  /* convert to inline-block element */
+  display: inline-block;
+}
