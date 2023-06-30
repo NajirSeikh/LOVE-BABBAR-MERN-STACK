@@ -1,0 +1,53 @@
+/* **************Code by Najir Seikh - 30/06/2023************** */
+
+div {
+  border: 1px solid black;
+}
+
+img {
+  margin-left: 10px;
+}
+
+/* relative position */
+/* .img2 {
+  position: relative;
+  top: 100px;
+  left: 200px;
+} */
+
+/* absolute position */
+/* .container {
+  position: relative;
+}
+.img2 {
+  position: absolute;
+  top: 100px;
+} */
+
+/* fixed position */
+/* .container {
+  height: 8000px;
+  background-color: beige;
+}
+.img4 {
+  position: fixed;
+} */
+
+/* sticky position */
+.container {
+  height: 2000px;
+  background-color: beige;
+}
+.img4 {
+  /* fixed with entire webpage */
+  position: fixed;
+}
+.img3 {
+  /* sticky with its parent container */
+  position: sticky;
+  top: 100px;
+}
+.box {
+  background-color: aquamarine;
+  height: 2000px;
+}
