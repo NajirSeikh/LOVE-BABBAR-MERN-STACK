@@ -1,0 +1,43 @@
+/* **************Code by Najir Seikh - 10/07/2023************** */
+/* ----- Float ----- */
+/* #img1 {
+  float: right;
+  height: 200px;
+  width: 150px;
+}
+#img2 {
+  float: left;
+  width: 200px;
+} */
+
+/* ----- Float Clear ----- */
+/* #najir {
+  float: right;
+  width: 200px;
+}
+#love {
+  float: right;
+  width: 200px;
+  clear: right;
+} */
+
+/* ----- Great Collapse ----- */
+/* .box {
+  border: 1px solid black;
+}
+.item {
+  width: 200px;
+  height: 200px;
+  margin: 2px;
+  background-color: aquamarine;
+  border: 1px solid black;
+  float: left;
+} */
+
+/* Overflow */
+.container {
+  border: 1px solid black;
+  width: 500px;
+  height: 300px;
+  overflow: scroll;
+}
